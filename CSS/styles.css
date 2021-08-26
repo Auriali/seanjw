@@ -1,0 +1,49 @@
+﻿body
+{
+    background:#FFFFFF center;
+    width:1000px;
+    margin: auto;
+	text-align: center;
+}
+
+a {
+	text-decoration:none;
+}
+
+a:hover {
+	opacity:80%;
+}
+
+.main {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+
+.main #logo {
+    height:200px;
+	width:200px;
+}
+
+.links {
+	padding-top:20px;
+}
+
+.links #drib {
+	height:40px;
+	width:40px;
+}
+
+.links #behan {
+	height:40px;
+	width:40px;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+.links #scloud {
+	height:40px;
+	width:40px;
+}
