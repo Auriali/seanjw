@@ -1,9 +1,14 @@
-﻿body
-{
-    background:#FFFFFF center;
+﻿body {
+    background: center;
     width:1000px;
     margin: auto;
 	text-align: center;
+	background-size:cover;
+}
+
+html {
+	height: 100%;
+	background-image:linear-gradient(to bottom right, #2EB9E3, #145EEE);
 }
 
 a {
@@ -23,8 +28,14 @@ a:hover {
 
 
 .main #logo {
-    height:200px;
-	width:200px;
+    height:180px;
+	width:180px;
+}
+
+.main #sean {
+	height:25px;
+	width:auto;
+	padding-top:20px;
 }
 
 .links {
