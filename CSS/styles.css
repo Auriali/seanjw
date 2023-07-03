@@ -57,4 +57,11 @@ a:hover {
 .links #scloud {
 	height:40px;
 	width:40px;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+.links #wom {
+	height:40px;
+	width:40px;
 }
