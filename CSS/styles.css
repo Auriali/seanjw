@@ -8,7 +8,10 @@
 
 html {
 	height: 100%;
-	background-image:linear-gradient(to bottom right, #2EB9E3, #145EEE);
+	background-image:url(../Images/background.png);
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
 }
 
 a {
