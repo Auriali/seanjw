@@ -31,12 +31,12 @@ a:hover {
 
 
 .main #logo {
-    height:180px;
-	width:180px;
+    height:160px;
+	width:auto;
 }
 
 .main #sean {
-	height:25px;
+	height:30px;
 	width:auto;
 	padding-top:20px;
 }
